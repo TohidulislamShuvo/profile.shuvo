@@ -212,7 +212,10 @@ section {
   cursor: pointer;
   height: 2rem;
 }
-
+.icon-s {
+  cursor: pointer;
+  height: 10rem;
+}
 /* BUTTONS */
 
 .btn-container {
